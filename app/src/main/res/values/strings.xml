@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndriodUberClone</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyDc7A-0zTXBcOWJ18AkftdJfwTlb9LUUmc</string>
+</resources>
